@@ -1,8 +1,8 @@
 # Descargas
 
-<a href="https://code.visualstudio.com/">Visual Studio Code</a>
+<a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
 
-<a href="https://www.python.org/downloads/">Python</a>
+<a href="https://www.python.org/downloads/" target="_blank">Python</a>
 
 # Extensiones de Visual Studio Code
 
