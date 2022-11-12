@@ -16,6 +16,6 @@ Muestra en tiempo real los errores de syntaxis.
 
 ## Zoom
 
-Hacer zoom mantenientod CTRL y scroll.
+Hacer zoom manteniendo CTRL y scroll.
 
 <img src="https://i.imgur.com/cBBoSSj.png" alt="Settings - Search for Zoom - Check the option">
