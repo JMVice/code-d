@@ -10,6 +10,6 @@
 
 # Cronograma
 
-- Comentarios, variables, print, aritmetica básica y print.
+- Comentarios, variables, aritmetica básica y print().
 
-- Variables 2 y condicionales.
+- Variables 2, condicionales e input().

@@ -1,3 +1,27 @@
+# Lab
+
+- Haga un algoritmo que haga una operación aritmetica usando al menos 5 variables.
+
+- Haga un algoritmo que haga una operación aritmetica que haga uso de una divición una multiplicación y su resultado sea 50.
+
+- Haga un algoritmo que imprima su nombre.
+
+- Haga un algoritmo que su output sea lo siguiente:
+
+```
+*
+**
+***
+**
+*
+```
+
+- Haga un algoritmo que muestre el nombre de una persona, su edad y su altura. Debe mostrarse de esta forma:
+"<Nombre> <Apellido>. Edad:<Edad>. Altura:<Altura>.
+Cada cosa dentro de los <> debe ser una variable.
+
+# Resumen
+
 ```python
 # Este es un comentario.
 
