@@ -1,25 +1,3 @@
-# Lab
-
-- Haga un algoritmo que haga una operación aritmetica usando al menos 5 variables.
-
-- Haga un algoritmo que haga una operación aritmetica que haga uso de una divición una multiplicación y su resultado sea 50.
-
-- Haga un algoritmo que imprima su nombre.
-
-- Haga un algoritmo que su output sea lo siguiente:
-
-```
-*
-**
-***
-**
-*
-```
-
-- Haga un algoritmo que muestre el nombre de una persona, su edad y su altura. Debe mostrarse de esta forma:
-"(Nombre) (Apellido). Edad:(Edad). Altura:(Altura).
-Cada cosa dentro de los () debe ser una variable.
-
 # Resumen
 
 ```python
@@ -98,4 +76,58 @@ x = 5
 # Para eso, se utiliza la función str().
 print(nombre + str(x)) # => Xinia5
 
+```
+
+# Lab
+
+- Haga un algoritmo que haga una operación aritmetica usando al menos 5 variables.
+
+- Haga un algoritmo que haga una operación aritmetica que haga uso de una divición una multiplicación y su resultado sea 50.
+
+- Haga un algoritmo que imprima su nombre.
+
+- Haga un algoritmo que su output sea lo siguiente:
+
+```
+*
+**
+***
+**
+*
+```
+
+- Haga un algoritmo que muestre el nombre de una persona, su edad y su altura. Debe mostrarse de esta forma:
+"(Nombre) (Apellido). Edad: (Edad). Altura: (Altura).
+Cada cosa dentro de los () debe ser una variable.
+
+# Lab results
+
+```python
+# ===============================
+# Ejercio 01
+# ===============================
+a = 1
+b = 2
+c = 3
+d = 4
+e = 5
+
+print(a + b + c + d + e) # Ejercicio 01
+
+print(round((e**2)*d/b )) # Ejercicio 02 redondeado
+
+print("Alberto") # Ejercio 03
+
+print('*')
+print('**')
+print('***')  # Ejercio 04
+print('**')
+print('*')
+
+nombre = 'Louis '
+apellido = 'Zing'
+edad = str(17) #'17'
+altura = '1.73'
+
+print(nombre + apellido + '.' + ' Edad:' + edad + '. Altura: ' + altura) # Ejercio 05
 ```
