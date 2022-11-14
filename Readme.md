@@ -1,7 +1,7 @@
 # Vidas
 
 <!-- <img src="https://i.imgur.com/wq6lqoY.png" alr="3 vidas"> -->
-<img src="https://i.imgur.com/orFbERW.png" alr="3 vidas">
+<img src="https://i.imgur.com/orFbERW.png" alr="2 vidas">
 <!-- <img src="https://i.imgur.com/e6sfHFi.png" alr="1 vida"> -->
 
 <!-- # BRAIN FRIED
