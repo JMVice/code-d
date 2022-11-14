@@ -17,8 +17,8 @@
 ```
 
 - Haga un algoritmo que muestre el nombre de una persona, su edad y su altura. Debe mostrarse de esta forma:
-"<Nombre> <Apellido>. Edad:<Edad>. Altura:<Altura>.
-Cada cosa dentro de los <> debe ser una variable.
+"(Nombre) (Apellido). Edad:(Edad). Altura:(Altura).
+Cada cosa dentro de los () debe ser una variable.
 
 # Resumen
 
