@@ -1,3 +1,5 @@
+# Entrega
+
 ```python
 # ==========================================================================================================================================
 
@@ -92,4 +94,36 @@ print(tabla)
 print() # print final para que el output sea mas ordenado
 
 # ==========================================================================================================================================
+```
+
+# Observaciones
+
+- Recordó la cadena de texto escapada `\n` para el salto de línea sin que estuviera en los ejemplos de la clase. Bien hecho.
+
+- En el ejericio 04 ambas aproximaciones están incorrectas aunque sus resoluciones están validas en tanto al uso de 2 variables. La aproximación esperada era el uso de 2 variables mientras estas se mutan sus valores:
+
+```python
+
+# Todo lo que esté entre ' debe ser sustituido por una variable.
+
+texto = 'Davi'
+numero = None
+
+print('Buenos días ' + texto + '.')
+print()
+print('Estos son los insumos actuales:')
+print()
+
+numero = 45
+texto = 'Chocolates'
+print(str(numero) + ' ' + texto + '.')
+
+numero = 15
+texto = 'Galletas'
+print(str(numero) + ' ' + texto + '.')
+
+numero = 24
+texto = 'Botellas de Alcohol'
+print(str(numero) + ' ' + texto + ' advertencia de peligrosidad.')
+
 ```
