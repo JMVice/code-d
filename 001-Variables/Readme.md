@@ -1,27 +1,3 @@
-# Asignación 001
-
-- Debe comentar todos los pasos que este haciendo.
-
-- Imprimir en consola "-265 limones" el cual es un resultado de una operacion aritmetica entre 15 variables distintas. Debe usar al menos 2 multiplicaciones, 2 diviciones, 2 potencias y parentesis.
-
-- Crear un algoritmo en donde el output sea el siguiente:
-
-```
-Buenos dias 'su nombre'.
-
-Estos son los insumos actuales:
-
-'numero 1' 'insumo 1'.
-'numero 1' 'insumo 2'.
-'numero 2' 'inusmo 3' advertencia de peligrosidad.
-```
-
-Cada definicion que se encuentra entre ' debe ser una variable.
-
-- Recrear el ejercicio anterior pero solo usando 2 variables.
-
-Fecha limite de entrega: Miercoles 16 de Noviembre antes de las 23:59.
-
 # Resumen
 
 ## Comentarios
@@ -173,3 +149,27 @@ altura = '1.73'
 
 print(nombre + apellido + '.' + ' Edad:' + edad + '. Altura: ' + altura) # Ejercio 05
 ```
+
+# Asignación 001
+
+- Debe comentar todos los pasos que este haciendo.
+
+- Imprimir en consola "-265 limones" el cual es un resultado de una operacion aritmetica entre 15 variables distintas. Debe usar al menos 2 multiplicaciones, 2 diviciones, 2 potencias y parentesis.
+
+- Crear un algoritmo en donde el output sea el siguiente:
+
+```
+Buenos dias 'su nombre'.
+
+Estos son los insumos actuales:
+
+'numero 1' 'insumo 1'.
+'numero 1' 'insumo 2'.
+'numero 2' 'inusmo 3' advertencia de peligrosidad.
+```
+
+Cada definicion que se encuentra entre ' debe ser una variable.
+
+- Recrear el ejercicio anterior pero solo usando 2 variables.
+
+<a href="./res_asig_001.md">Resultados de asignación</a>
