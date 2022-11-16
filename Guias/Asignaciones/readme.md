@@ -10,4 +10,4 @@ Debe seguir la siguientes reglas.
 
 - Si la fecha de entrega del archivo esta mas alla de la hora fijada, no sera recibido.
 
-- Si es visible un label de "editado" en el archivo en y este fue subido en horario muy cercano a la fecha limite de entrega, puede que no sea recibido.
+- Si es visible un label de "editado" en el archivo y este fue subido en horario muy cercano a la fecha limite de entrega, puede que no sea recibido.
