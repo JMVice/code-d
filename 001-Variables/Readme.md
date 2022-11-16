@@ -24,6 +24,8 @@ Fecha limite de entrega: Miercoles 16 de Noviembre antes de las 23:59.
 
 # Resumen
 
+## Comentarios
+
 ```python
 # Este es un comentario.
 
@@ -33,6 +35,9 @@ multi linea
 '''
 
 ```
+
+## Variables y función print()
+
 ```python
 # Variable sin valor.
 
@@ -74,6 +79,9 @@ Mundo
 '''
 
 ```
+
+## Aritmética básica
+
 ```python
 # Sumas
 x = 5
@@ -97,6 +105,9 @@ print(100 / 4) # => 25.0
 print(round(100 / 4)) # => 25
 
 ```
+
+## Concatenación básica
+
 ```python
 # Contatenación de Integer con String
 nombre = 'Xinia'
