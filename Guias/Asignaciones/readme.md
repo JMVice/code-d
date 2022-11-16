@@ -2,7 +2,7 @@
 
 Debe seguir la siguientes reglas.
 
-- Las asignaciones deben ser entregadas en el canal de Discord con el icono de 🐍. Puede colocarle cualquier nombre.
+- Las asignaciones deben ser entregadas en el canal de Discord con el icono de 🐍. Puede colocarle cualquier nombre. Puede ser un .zip, el archivo .py o pegarlo directamente en el canal.
 
 - Debe entregar antes de la hora fijada.
 
