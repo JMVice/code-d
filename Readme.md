@@ -12,4 +12,4 @@
 
 - Comentarios, variables, aritmetica básica y print().
 
-- Variables 2, condicionales e input().
+- Booleans, condicionales e input().
