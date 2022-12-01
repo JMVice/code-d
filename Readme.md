@@ -11,3 +11,5 @@
 - Comentarios, variables, aritmetica básica y print().
 
 - Booleans, condicionales e input().
+
+- Funciones, bucles y arrays.
